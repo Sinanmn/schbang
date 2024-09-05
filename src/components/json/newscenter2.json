@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "image": "https://via.placeholder.com/600x400",
+      "text": "This is Media the first card."
+    },
+    {
+      "id": 2,
+      "image": "https://via.placeholder.com/600x400",
+      "text": "This is Media the second card."
+    },
+    {
+      "id": 3,
+      "image": "https://via.placeholder.com/600x400",
+      "text": "This is Media the third card."
+    },
+    {
+      "id": 4,
+      "image": "https://via.placeholder.com/600x400",
+      "text": "This is Media the third card."
+    },
+    {
+      "id": 5,
+      "image": "https://via.placeholder.com/600x400",
+      "text": "This is Media the third card."
+    },
+    {
+      "id": 6,
+      "image": "https://via.placeholder.com/600x400",
+      "text": "This is Media the third card."
+    }
+  ]
+  

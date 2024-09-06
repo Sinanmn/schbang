@@ -7,6 +7,8 @@ import NewsCentre from './components/NewsCentre'
 import OurPartnerships from './components/OurPartnerships'
 import SchbangNetwork from './components/SchbangNetwork'
 import Home from './components/Home'
+import CaseStudy from './components/CaseStudy'
+
 
 const App = () => {
   return (
@@ -19,6 +21,7 @@ const App = () => {
         <Route path='/newscentre' element={<NewsCentre/>}></Route>
         <Route path='/ourpartnership' element={<OurPartnerships/>}></Route>
         <Route path='/schbangnetwork' element={<SchbangNetwork/>}></Route>
+        <Route path='/casestudy' element={<CaseStudy/>}></Route>
       </Routes>
     </Router>
   )

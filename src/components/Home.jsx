@@ -10,7 +10,8 @@ const Home = () => {
       <Link to={'/howwework'}><button className='outline mx-5 p-4' >How We Work</button></Link>
       <Link to={'/csr'}><button className='outline mx-5 p-4'>CSR</button></Link>
       <Link to={'/ourpartnership'}><button className='outline mx-5 p-4'>Our Partnership</button></Link>
-      <Link to={'newscentre'}><button className='outline mx-5 p-4'>News Center</button></Link>
+      <Link to={'/newscentre'}><button className='outline mx-5 p-4'>News Center</button></Link>
+      <Link to={'/casestudy'}><button className='outline mx-5 p-4'>Case Study</button></Link>
      
       </div>
     </div>
